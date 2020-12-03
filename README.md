@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **raygervais/raygervais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+RayGervais:
+  Desktop:
+    Hostname: Malachor
+    System: Fedora 33
+    Environment: Gnome
+    Editor: Vim, VS Code
+    Shell: Fish
+    Font: Lilex, Victor Mono Code
+    Color: Inksea Dark
+
+  Career:
+    Title: Cloud Engineer
+    Languages:
+      - Python
+      - Golang
+      - Ruby
+      - Node
+
+  Interests:
+    - Open Source
+    - Systems Programming
+    - Mobile Application Development
+    - DevOps Tooling
+```
