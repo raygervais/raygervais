@@ -1,4 +1,3 @@
-
 <!--
 **raygervais/raygervais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +17,12 @@ Here are some ideas to get you started:
 RayGervais:
   Desktop:
     Hostname: Malachor
-    System: Fedora 33
+    System: Fedora 34
     Environment: Gnome
     Editor: Vim, VS Code
     Shell: Fish
-    Font: Lilex, Victor Mono Code
-    Color: Inksea Dark
+    Font: Hasklig, IBM Plex Mono
+    Color: Tokyo Night
 
   Career:
     Title: Cloud Engineer
@@ -39,3 +38,6 @@ RayGervais:
     - Mobile Application Development
     - DevOps Tooling
 ```
+
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css&theme=tokyonight)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=tokyonight)
