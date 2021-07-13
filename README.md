@@ -21,16 +21,17 @@ RayGervais:
     Environment: Gnome
     Editor: Vim, VS Code
     Shell: Fish
-    Font: Hasklig, IBM Plex Mono
-    Color: Tokyo Night
+    Font: IBM Plex Mono, Hasklig
+    Color: Dracula
+    Ansible Setup: raygervais/dotfiles
 
   Career:
     Title: Cloud Engineer
     Languages:
       - Python
       - Golang
+      - Rust
       - Ruby
-      - Node
 
   Interests:
     - Open Source
@@ -39,5 +40,5 @@ RayGervais:
     - DevOps Tooling
 ```
 
-![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css&theme=tokyonight)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=tokyonight)
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,python&theme=dracula)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=dracula)
