@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 RayGervais:
   Desktop:
     Hostname: Malachor
-    System: Fedora 34
+    System: Fedora 35
     Environment: Gnome
     Editor: Neovim, VS Code
     Shell: Fish
-    Font: Rec Mono Duatone, IBM Plex Mono
-    Color: Nord
+    Font: Fira Code, Jetbrains Mono
+    Color: Solarized Dark / Gruvbox Material
     Ansible Setup: raygervais/dotfiles
 
   Career:
@@ -31,7 +31,6 @@ RayGervais:
       - Golang
       - Rust
       - Python
-      - Ruby
 
   Interests:
     - Open Source
@@ -40,5 +39,5 @@ RayGervais:
     - DevOps Tooling
 ```
 
-![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=nord)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=nord)
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=solarized-dark)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=solarized-dark)
