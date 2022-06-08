@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ```yaml
 RayGervais:
-  Desktop:
-    Hostname: Malachor
+  Enviornment:
+    Hostname: Malachor II
     System: Fedora 36
     Environment: Gnome
-    Editor: Neovim, VS Code
+    Editor: VS Code, Neovim, Emacs
     Shell: Fish
-    Font: Fira Code, Jetbrains Mono
+    Font: Hasklig, Jetbrains Mono
     Color: Nord
     Ansible Setup: raygervais/dotfiles
 
