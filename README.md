@@ -21,7 +21,7 @@ RayGervais:
     Environment: Gnome
     Editor: VS Code, Neovim, Emacs
     Shell: Fish
-    Font: Hasklig, Jetbrains Mono
+    Font: Fira Code, Jetbrains Mono
     Color: Nord
     Ansible Setup: raygervais/dotfiles
 
