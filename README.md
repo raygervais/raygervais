@@ -19,9 +19,9 @@ RayGervais:
     Hostname: Malachor II
     System: Fedora 36
     Environment: Gnome
-    Editor: VS Code, Neovim, Emacs
+    Editor: VS Code, Emacs, Neovim
     Shell: Fish
-    Font: Fira Code, Jetbrains Mono
+    Font: IBM Plex Mono, Iosevka, Fira Code
     Color: Nord
     Ansible Setup: raygervais/dotfiles
 
