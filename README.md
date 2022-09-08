@@ -21,8 +21,8 @@ RayGervais:
     Environment: Gnome
     Editor: VS Code, Emacs, Neovim
     Shell: Fish
-    Font: IBM Plex Mono, Iosevka, Fira Code
-    Color: Nord
+    Font: Hasklig, Fira Code, IBM Plex Mono, Iosevka
+    Color Schemes: Solarized, Tomorrow Night, Nord
     Ansible Setup: raygervais/dotfiles
 
   Career:
@@ -39,5 +39,5 @@ RayGervais:
     - DevOps Tooling
 ```
 
-![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=nord)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=nord)
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=solarized-dark)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=solarized-dark)
