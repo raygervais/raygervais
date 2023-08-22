@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ```yaml
 RayGervais:
-  Enviornment:
+  Environment:
     Hostname: Malachor II
     System: Fedora 36
     Environment: Gnome
