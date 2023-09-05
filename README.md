@@ -13,40 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# raygervais
+
 ```yaml
-RayGervais:
-  Environment:
-    Hostname: Malachor II
-    System: Fedora 36
-    Environment: Gnome
-    Editor: 
-      - VS Code
-      - Helix
-      - Neovim
-    Shell: Fish
-    Font: 
-      - Iosevka
-      - Fira Code
-      - Jetbrains Mono
-    Color Schemes: 
-      - Nord
-      - Solarized
-      - Everforest
-    Ansible Setup: raygervais/dotfiles
+Environment:
+  Hostname: Malachor III
+  System: Debian 12
+  Environment: Gnome
+  Editor: 
+    - VS Code
+    - Helix
+    - Neovim
+  Shell: Fish
+  Font:
+    - Mononoki / Fantasque Sans Mono
+    - Iosevka Curly
+    - Jetbrains Mono
+  Color Schemes: 
+    - Nord
+    - Solarized
+    - Monokai Pro
+  Ansible Setup: <WIP>
 
-  Career:
-    Title: Senior Cloud Engineer
-    Languages:
-      - Golang
-      - Rust
-      - Python
+Career:
+  Title: Senior Cloud Engineer
+  Languages:
+    - Golang
+    - Rust
+    - Python
 
-  Interests:
-    - Open Source
-    - Systems Programming
-    - Cloud Engineering
-    - DevOps Tooling
+Interests:
+- Cloud Engineering
+- Open Source
+- Systems Programming
+- Mobile Application Development
 ```
 
-![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=nord)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=nord)
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=github_dark)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=github_dark)
