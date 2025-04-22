@@ -18,25 +18,28 @@ Here are some ideas to get you started:
 ```yaml
 Environment:
   Hostname: Malachor III
-  System: Debian 12
+  System: Fedora 42
   Environment: Gnome
   Editor: 
+    - Zed
     - VS Code
-    - Helix
     - Neovim
+    - Helix
   Shell: Fish
   Font:
-    - Mononoki / Fantasque Sans Mono
-    - Iosevka Curly
+    - Cascadia Code
+    - Iosevka
+    - Intel One Mono
     - Jetbrains Mono
-  Color Schemes: 
+  Color Schemes:
+    - Rose Pine
+    - Catppuccin
     - Nord
     - Solarized
-    - Monokai Pro
-  Ansible Setup: <WIP>
+    - Gruvbox
 
 Career:
-  Title: Senior Cloud Engineer
+  Title: Staff Cloud Engineer
   Languages:
     - Golang
     - Rust
@@ -46,7 +49,6 @@ Interests:
 - Cloud Engineering
 - Open Source
 - Systems Programming
-- Mobile Application Development
 ```
 
 ![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=github_dark)
