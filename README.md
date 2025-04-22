@@ -51,5 +51,5 @@ Interests:
 - Systems Programming
 ```
 
-![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=github_dark)
-![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=github_dark)
+![Ray's Most Written Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raygervais&hide=html,css,js,javascript,python&theme=rose_pine)
+![Ray's github stats](https://github-readme-stats.vercel.app/api?username=raygervais&show_icons=true&count_private=true&line_height=40&theme=rose_pine)
